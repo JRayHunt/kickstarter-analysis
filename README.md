@@ -1,5 +1,5 @@
 # This is the analysis of Kickstarter campaigns requested by the client. 
-###Hello Louise, please find the results of our analysis and recommendations below. Thank you.
+Hello Louise, please find the results of our analysis and recommendations below. Thank you.
 
 *The months with the highest number of successful Kickstarter campaigns are May and June. A number of factors could contribute to this and could be evaluated with further analysis. We recommend you initiate any Kickstarter campaign in these months. Please see the following chart ![Outcomes Based On Launch](Outcomes Based On Launch.png)
 *Further analysis showed us that the highest number of successful Kickstarter campaigns were classified in the parent category of "Theater". Please note that this is a broad category which includes subcategories for "plays", "musicals", and "spaces". Theater projects is a very successful category as displayed in the following bar graph ![Parent Category Outcomes.png](Parent Category Outcomes.png)
