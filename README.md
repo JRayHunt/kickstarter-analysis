@@ -2,7 +2,8 @@
 ## Overview of Project
 Louise, a playwright based in the US, is looking to start a crowd-funding campaign for her new play "Fever". Her preliminary analysis has led her to an estimated budget of over $10,000. 
 
-###Louise has asked us to provide an analysis of past Kickstarter funding campaigns to inform her budget estimates. In addition, Louise has asked for an analysis of Kickstarter projects for musicals in Great Britain for a future project.
+### Purpose
+Louise has asked us to provide an analysis of past Kickstarter funding campaigns to inform her budget estimates. In addition, Louise has asked for an analysis of Kickstarter projects for musicals in Great Britain for a future project.
 
 ## Analysis and Challenges
 I began this analysis with a large data set of Kickstarter projects covering multiple categories from 2009 through 2017. The size and variation of data wasn't helpful for the analysis I needed to focus on (projects funding theater plays in the US) so my first steps were to filter split the data and filter down to relevant parent category "Theater" and subcategory "Plays"). The view of the success rate of this category and subcategory provided positive feedback since they have historically been successful raising funds. Theater projects is a very successful category as displayed in the following bar graph ![Parent Category Outcomes.png](Parent Category Outcomes.png)
